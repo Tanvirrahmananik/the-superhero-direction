@@ -9,12 +9,12 @@
 }
 .list{
     box-shadow: 3px 3px 3px gray;
-    height: 450px;
+    height: 1500px;
     width: 400px;
     text-align: center;
     margin: 20px;
     border: 1px solid gray;
     padding: 5px;
     background-color: rgb(221, 221, 206);
-    overflow: hidden;
+  
 }
