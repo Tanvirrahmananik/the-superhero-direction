@@ -13,7 +13,8 @@ const List = (props) =>{
         <div>
             <h2>Number of Hacker: {props.list.length}</h2>
         <h3>Total Cost: ${total}</h3><br />
-        <h1 className='name'> {hackerName} </h1>
+        <h5> { hackerName }  </h5>
+        
 
         </div>
     )
